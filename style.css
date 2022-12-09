@@ -1,0 +1,110 @@
+
+/* ------------- Start Section1 ---------------- */
+.home{
+    background-image: url(img/events-heavenly-header.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+.cc{
+    background-color: rgba(214, 46, 51, 0.6);
+    height: 90vh;
+}
+.btn-close{
+    justify-content: start;
+}
+.text a{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+    padding-top: 15%;
+}
+.info{
+    padding-top: 10%;
+    color: white;
+   
+}
+#infoo{
+    font-size: 350%;
+}
+.button-nav{
+position: relative;
+top: 300px;
+
+}
+/* ------------------- End Section1 --------------------- */
+
+/* ------------------- Start section2 ------------------- */
+
+.signer{
+    width: 50%;
+    text-align: center;
+    background-color:rgba(214, 46, 51, 0.6) ;
+    margin: auto;
+}
+.signer h2{
+    cursor: pointer;
+    color: white;
+}
+.one{
+    display: none;
+    text-align: center;
+}
+.two{
+    display: none;
+    text-align: center;
+}
+.three{
+    display: none;
+    text-align: center;
+}
+.four{
+    display: none;
+    text-align: center;
+}
+/* --------------------- End section2 -------------------- */
+
+/* ---------------------- Start Section3 ----------------- */
+#section3{
+    background-image: url(img/invitation-2508607__340.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+}
+.overlay{
+    background-color: rgba(214, 46, 51, 0.6);
+    height: 30vh;
+    color: white;
+
+}
+.time h3{
+border: 1px white solid !important;
+text-align: center;
+padding: 50px;
+
+}
+
+/* ---------------------- End Section3 ----------------- */
+
+/* ---------------------- Start Section4 ----------------- */
+
+#section4 p{
+    color: #999;
+    font-weight: 600;
+}
+
+.social i{
+    padding: 10px;
+    font-size: medium;
+    border: 1px solid #999;
+    justify-content: space-evenly;
+    color: #999;
+    cursor: pointer;
+
+}
+
+
+/* ---------------------- End Section4 ----------------- */
